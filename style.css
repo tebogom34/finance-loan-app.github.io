@@ -1,0 +1,12 @@
+body{
+    font-family:'Lato', sans-serif;
+    padding:0;
+    margin:0;
+    color:black;
+}
+.nav-link{
+    color:black;
+}
+.nav-link:hover{
+    border-bottom:4px solid orange;
+}
